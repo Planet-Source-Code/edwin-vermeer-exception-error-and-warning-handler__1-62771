@@ -1,0 +1,9 @@
+
+Please read the readme.txt first.
+
+Instructions:
+Register the file ExeptionHandlerDLL\EVICT_ExeptionHandler.dll or compile the project ExeptionHandlerDLL\EVICT_ExeptionHandler.vbp
+
+Run or compile the project ExeptionHandlerDemo\ErrorHandlerDemo.vbp to see it in action
+
+For the latest version and for the complete documentation please visit http://www.evict.nl
